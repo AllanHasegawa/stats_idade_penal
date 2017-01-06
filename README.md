@@ -8,6 +8,8 @@ Graph for the table in: http://www.crianca.mppr.mp.br/modules/conteudo/conteudo.
 2. pip3
 3. virtualenv
 
+# Running
+
 ```
  $ git clone https://github.com/AranHase/stats_idade_penal.git
  $ cd stats_idade_penal
